@@ -1,2 +1,2 @@
 # CV
-Jingyi's CV
+Jingyi's CV (self-learning)
